@@ -1,6 +1,6 @@
 cask "orbtile" do
-  version "1.0.0"
-  sha256 "a758b934c8340913b95e3b05debf5584419ae91575f1d24b3604de278d618b8a"
+  version "1.1.0"
+  sha256 "6438854ffc56f5324d5a70f3734069db6bcbf7663894d370c4c71a8bb8ca6860"
 
   url "https://orbtile.com/download/Orbtile-#{version}.dmg"
   name "Orbtile"
